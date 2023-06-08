@@ -1,0 +1,12 @@
+# Blender 3.5.1 MTL File: 'Spatel.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 46.129005
+Ka 0.089347 0.089347 0.089347
+Ks 0.135739 0.135739 0.135739
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/nadine.aukes/Desktop/textur.png
